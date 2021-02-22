@@ -6,8 +6,8 @@
             "country": "Brazil",
             "state": "São Paulo",
             "city": "Barueri",
-            "latitude": -23.628949249999998,
-            "longitude": -46.71006813701569,
+            "latitude": "-23.628949249999998",
+            "longitude": "-46.71006813701569",
             "address": {
                 "street": "Av. Andromeda",
                 "complement": "Bloco 11",
@@ -23,8 +23,8 @@
             "country": "Brazil",
             "state": "São Paulo",
             "city": "São Paulo",
-            "latitude": -23.628949249999998,
-            "longitude": -46.71006813701569,
+            "latitude": "-23.628949249999998",
+            "longitude": "-46.71006813701569",
             "address": {
                 "street": "Rua Alexandre Dumas",
                 "complement": "",
@@ -40,8 +40,8 @@
             "country": "Brazil",
             "state": "Paraná",
             "city": "Curitiba",
-            "latitude": -29.6961245,
-            "longitude": -53.8520315,
+            "latitude": "-29.6961245",
+            "longitude": "-53.8520315",
             "address": {
                 "street": "Avenida Mal. Deodoro",
                 "complement": "Bloco 22",
