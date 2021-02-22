@@ -1,0 +1,55 @@
+{
+    "accenture": [
+        {
+            "id": 0,
+            "name": "Accenture Barueri",
+            "country": "Brazil",
+            "state": "São Paulo",
+            "city": "Barueri",
+            "latitude": -23.2163392,
+            "longitude": -45.8919862,
+            "address": {
+                "street": "Av. Andromeda",
+                "complement": "Bloco 11",
+                "number": "2.000",
+                "zipCode": "06473-900"
+            },
+            "describle": "Accenture anuncia aquisição da Real Protect Empresa é referência em segurança cibernética",
+            "contactURL": "barueri"
+        },
+        {
+            "id": 1,
+            "name": "Accenture Chac. S Antonio",
+            "country": "Brazil",
+            "state": "São Paulo",
+            "city": "São Paulo",
+            "latitude": -23.628949249999998,
+            "longitude": -46.71006813701569,
+            "address": {
+                "street": "Rua Alexandre Dumas",
+                "complement": "",
+                "number": "2.051",
+                "zipCode": "04717-004"
+            },
+            "describle": "Accenture anuncia aquisição da Real Protect Empresa é referência em segurança cibernética",
+            "contactURL": "barueri"
+        },
+        {
+            "id": 2,
+            "name": "Accenture Curitiba",
+            "country": "Brazil",
+            "state": "Paraná",
+            "city": "Curitiba",
+            "latitude": -29.6961245,
+            "longitude": -53.8520315,
+            "address": {
+                "street": "Avenida Mal. Deodoro",
+                "complement": "Bloco 22",
+                "number": "558",
+                "zipCode": "80010-010"
+            },
+            "describle": "Accenture anuncia aquisição da Real Protect Empresa é referência em segurança cibernética",
+            "contactURL": "barueri"
+        }
+    ]
+}
