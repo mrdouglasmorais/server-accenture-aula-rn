@@ -19,4 +19,4 @@ const app = (0, _express2.default)();
 app.use((0, _cors2.default)());
 app.use(_routes2.default);
 
-app.listen(8080);
+app.listen(3333);
