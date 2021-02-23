@@ -6,6 +6,7 @@
             "country": "Brazil",
             "state": "São Paulo",
             "city": "Barueri",
+            "profile": "https://startupi.com.br/wp-content/uploads/2020/01/accenture-1.jpg",
             "latitude": -23.4852324,
             "longitude": -46.864544433009236,
             "address": {
@@ -23,6 +24,7 @@
             "country": "Brazil",
             "state": "São Paulo",
             "city": "São Paulo",
+            "profile": "https://startupi.com.br/wp-content/uploads/2020/01/accenture-1.jpg",
             "latitude": -23.628949249999998,
             "longitude": -46.71006813701569,
             "address": {
@@ -40,6 +42,7 @@
             "country": "Brazil",
             "state": "Paraná",
             "city": "Curitiba",
+            "profile": "https://startupi.com.br/wp-content/uploads/2020/01/accenture-1.jpg",
             "latitude": -29.6961245,
             "longitude": -53.8520315,
             "address": {
