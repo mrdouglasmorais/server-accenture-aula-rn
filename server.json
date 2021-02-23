@@ -2,12 +2,12 @@
     "accenture": [
         {
             "id": 0,
-            "name": "Accenture Barueri",
+            "name": "Alphavile",
             "country": "Brazil",
             "state": "São Paulo",
             "city": "Barueri",
-            "latitude": -23.628949249999998,
-            "longitude": -46.71006813701569,
+            "latitude": -23.4852324,
+            "longitude": -46.864544433009236,
             "address": {
                 "street": "Av. Andromeda",
                 "complement": "Bloco 11",
@@ -19,7 +19,7 @@
         },
         {
             "id": 1,
-            "name": "Accenture Chac. S Antonio",
+            "name": "Chacara Santo Antônio",
             "country": "Brazil",
             "state": "São Paulo",
             "city": "São Paulo",
@@ -36,7 +36,7 @@
         },
         {
             "id": 2,
-            "name": "Accenture Curitiba",
+            "name": "Curitiba",
             "country": "Brazil",
             "state": "Paraná",
             "city": "Curitiba",
